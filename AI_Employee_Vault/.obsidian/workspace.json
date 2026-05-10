@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "bdc970b09ee2cf02",
+    "type": "split",
+    "children": [
+      {
+        "id": "befdd7be9d506906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2789c5327ed6d8c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "388f0286530a45a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c8dd02bcea1e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e68cd2783e189e86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "19a8df39536ac5f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6d991e968506a332",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d98800ed11813621",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c43d3b8be84a71e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "637028d178e8e262",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dashboard"
+            }
+          },
+          {
+            "id": "deac25e1769af181",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dashboard"
+            }
+          },
+          {
+            "id": "adcc292d854ec830",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "df92e3594aa4168b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9ccbac246020a296",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2789c5327ed6d8c6",
+  "lastOpenFiles": [
+    "Done/FILE_test_invoice_20260510_160615.txt",
+    "Done/FILE_test_invoice_20260510_160615.md",
+    "Done/FILE_test_20260510_160615.txt",
+    "Done/FILE_test_20260510_160615.md",
+    "Done/FILE_test_1_20260510_160615.txt",
+    "Done/FILE_test_1_20260510_160615.md",
+    "Done/FILE_test_1_20260510_160328.txt",
+    "Done/FILE_test_1_20260510_160328.md",
+    "Done/FILE_client_b_followup_20260510_160615.txt",
+    "Done/FILE_client_b_followup_20260510_160615.md",
+    "Done/FILE_client_b_followup_20260510_160407.txt",
+    "Done/FILE_client_b_followup_20260510_160407.md",
+    "Plans/PLAN_client_b_followup_20260510.md",
+    "Needs_Action/FILE_test_invoice_20260510_160615.md",
+    "Needs_Action/FILE_test_invoice_20260510_160615.txt",
+    "Needs_Action/FILE_test_1_20260510_160615.md",
+    "Needs_Action/FILE_test_1_20260510_160615.txt",
+    "Needs_Action/FILE_test_20260510_160615.md",
+    "Needs_Action/FILE_test_20260510_160615.txt",
+    "Needs_Action/FILE_client_b_followup_20260510_160615.md",
+    "Needs_Action/FILE_client_b_followup_20260510_160615.txt",
+    "Company_Handbook.md",
+    "Dashboard.md",
+    "Needs_Action/FILE_client_b_followup_20260510_160407.md",
+    "Needs_Action/FILE_client_b_followup_20260510_160407.txt",
+    "Needs_Action/FILE_test_1_20260510_160328.md"
+  ]
+}

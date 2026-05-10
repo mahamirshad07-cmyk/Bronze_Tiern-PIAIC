@@ -1,0 +1,23 @@
+[project]
+name = "ai-employee"
+version = "0.1.0"
+description = "Personal AI Employee — Bronze Tier"
+requires-python = ">=3.13"
+dependencies = [
+    "watchdog>=4.0.0",
+    "python-dotenv>=1.0.0",
+    "schedule>=1.2.0",
+    "google-auth>=2.28.0",
+    "google-auth-oauthlib>=1.2.0",
+    "google-api-python-client>=2.122.0",
+]
+
+[project.optional-dependencies]
+whatsapp = ["playwright>=1.43.0"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []

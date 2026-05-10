@@ -1,0 +1,13 @@
+.env
+credentials.json
+token.json
+.whatsapp_session/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+watcher.log
+watcher_out.txt
+watcher_err.txt
+AI_Employee_Vault/Logs/
+AI_Employee_Vault/.gmail_processed.json
